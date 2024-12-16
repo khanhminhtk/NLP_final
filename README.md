@@ -1,4 +1,4 @@
-# Một đồ án được xây dựng nhầm phân quan điểm của khách hàng sendo thông qua các mô hình máy học và học sâu được train trên bộ dữ dữ liệu vietnamese-sentiment-analyst
+# Một đồ án được xây dựng nhầm phân tích quan điểm của khách hàng sendo thông qua các mô hình máy học và học sâu được train trên bộ dữ dữ liệu vietnamese-sentiment-analyst
 Link data: https://www.kaggle.com/datasets/linhlpv/vietnamese-sentiment-analyst/data
 
 # Cấu trúc đồ án
